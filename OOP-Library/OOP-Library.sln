@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Library.Library", "OOP-Library.Library\OOP-Library.Library.csproj", "{666802FE-DBE4-4C52-881A-0C302402856C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_oop.App", "Tema_oop.App\Tema_oop.App.csproj", "{DC443AC9-C5B8-4B56-9C37-1B92EE3AF5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666802FE-DBE4-4C52-881A-0C302402856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666802FE-DBE4-4C52-881A-0C302402856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666802FE-DBE4-4C52-881A-0C302402856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666802FE-DBE4-4C52-881A-0C302402856C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC443AC9-C5B8-4B56-9C37-1B92EE3AF5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC443AC9-C5B8-4B56-9C37-1B92EE3AF5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC443AC9-C5B8-4B56-9C37-1B92EE3AF5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC443AC9-C5B8-4B56-9C37-1B92EE3AF5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199BDAD1-6E34-4286-8ADF-DF2B12C5DDBE}
+	EndGlobalSection
+EndGlobal
